@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **siapo41@gmail.com**
 ---
-<p align="left">
+<p align="center" style="display:flex;justify-content: space-around;">
 <img style="padding-right:10px" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img style="padding-right:10px" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img style="padding-right:10px" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -30,7 +30,6 @@
 <img style="padding-right:10px" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="35px"/> 
 <img style="padding-right:10px" src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postg3epxs0" height="30"/> 
 <img style="padding-right:10px" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="35px"/> 
-<img style="padding-right:10px" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="35px"/> 
 <img style="padding-right:10px" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="35px"/>
 </p>
 
