@@ -13,7 +13,6 @@
 <p align="left">
 <img style="padding-right:10px" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img style="padding-right:10px" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img style="padding-right:10px" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img style="padding-right:10px" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img style="padding-right:10px" alt="Terminal" width="35px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" />
 <img style="padding-right:10px" alt="Babel" width="35px" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" />
@@ -22,8 +21,7 @@
 <img style="padding-right:10px" alt="Docker" width="35px" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" />
 <img style="padding-right:10px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="35px"/>
 <img style="padding-right:10px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="35px"/> 
-<img style="padding-right:10px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="35px"/> 
-<img style="padding-right:10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35px"/> 
+<img style="padding-right:10px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="35px"/>
 <img style="padding-right:10px" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="35px"/> 
 <img style="padding-right:10px" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="35px"/>
 <img style="padding-right:10px" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="35px"/> 
